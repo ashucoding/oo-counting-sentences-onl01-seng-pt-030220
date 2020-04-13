@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-    
+    puts ""
   end
 
   def question?
